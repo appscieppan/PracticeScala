@@ -1,0 +1,2 @@
+# PracticeScala
+Scala Practice
