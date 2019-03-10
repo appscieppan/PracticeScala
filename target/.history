@@ -1,0 +1,15 @@
+run
+.
+code .
+exit
+run
+exit
+run
+exit
+sbt
+run
+conpile
+exit
+last compile:run
+run
+exit
